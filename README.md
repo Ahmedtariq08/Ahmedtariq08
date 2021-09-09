@@ -1,6 +1,5 @@
 👋 Hi, I’m Ahmed Tariq, i am a graduate of Electrical Engineering from National University of Sciences and Technology, Islamabad. My interests lie in web technologies and i am eagerly learning new frameworks and techniques.
-I just started my journey of web, previously i have been working on C++ mainly during my academics. Currently my expertise are HTML, CSS, Javascript, DOM, Jquery, Node.js, Express.js, 
-MongoDB, and React.js. I am looking forward to learn more everyday and contribute as much as i can. Let's connect!
+I just started my journey of web, previously i have been working on C++ mainly during my academics. Currently my expertise are HTML, CSS, Javascript, DOM. I am looking forward to learn more everyday!
 
 
 <!---
