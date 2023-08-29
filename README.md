@@ -1,19 +1,13 @@
-<!-- ![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
 
-
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=AbhishekSinghDhadwal&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success) -->
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software engineer at GoSaaS Inc. Developing web applications to be integrated and used with Oracle PLM. \
 🎓&nbsp; Graduated from National University of Sciences and Technology (NUST, Islamabad) - Batch 2021 \
 🌐 &nbsp; Striving to experience complete software development lifescyle in the space of web \
 🏏 &nbsp; Huge cricket fan and an enthusiastic supporter of Pakistan Cricket team 🇵🇰 \
-✉️ &nbsp; Feel free to reach out to me at ahmedtariq92331@gmail.com 
 
+&nbsp;\
+&nbsp;
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)&nbsp;
@@ -49,8 +43,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-05122A.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
-### 📫 &nbsp; How to reach me:
 
+&nbsp;\
+&nbsp;\
+&nbsp;
 
 <a href="https://www.linkedin.com/in/ahmedtariq08/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:ahmedtariq92331@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
