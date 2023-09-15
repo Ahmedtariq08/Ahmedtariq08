@@ -1,48 +1,51 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software engineer at GoSaaS Inc. Developing web applications to be integrated and used with Oracle PLM. \
+💡 &nbsp; Building Software that is reliable, maintainable and scalable. \
+🌐 &nbsp; I love to read documentation and blogs about technologies. Apart from work, i experiment with new tools to make sense of why they were built. \
 🎓&nbsp; Graduated from National University of Sciences and Technology (NUST, Islamabad) - Batch 2021 \
-🌐 &nbsp; Striving to experience complete software development lifescyle in the space of web \
-🏏 &nbsp; Huge cricket fan and an enthusiastic supporter of Pakistan Cricket team 🇵🇰 \
+🏏 &nbsp; Huge cricket fan and an enthusiastic supporter of Pakistan Cricket team 🇵🇰 
 
 &nbsp;\
 &nbsp;
 
 ### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-05122A?style=flat&logo=redux)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-![React Router](https://img.shields.io/badge/React_Router-05122A?style=flat&logo=react-router)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap)
-![Material UI](https://img.shields.io/badge/Material--UI-05122A?style=flat&logo=material-ui)
-![Jest](https://img.shields.io/badge/Jest-05122A?style=flat&logo=Jest&logoColor=orange)
-![Testing Library](https://img.shields.io/badge/Testing%20Library-05122A?style=flat&logo=testing-library&logoColor=red)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
+&nbsp;
 
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=orange)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring)&nbsp;
-![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=blue)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net&logoColor=purple)&nbsp;
-![Postgres](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MySql](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=FLAT&logo=amazonaws&logoColor=yellow)&nbsp;
-![Linode](https://img.shields.io/badge/Linode-05122A?style=flat&logo=Linode&logoColor=green)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=blue)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+&nbsp;
 
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-05122A.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 
 &nbsp;\
 &nbsp;\
