@@ -1,15 +1,14 @@
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 About Me
 
-💡 &nbsp; Building Software that is reliable, maintainable and scalable. \
-🌐 &nbsp; I love to read documentation and blogs about technologies. Apart from work, i experiment with new tools to make sense of why they were built. \
-🎓&nbsp; Graduated from National University of Sciences and Technology (NUST, Islamabad) - Batch 2021 \
-🏏 &nbsp; Huge cricket fan and an enthusiastic supporter of Pakistan Cricket team &nbsp; 🇵🇰 
+💻 Web application developer experienced with client and server side technologies.  \
+💡 I believe in clean code, user-centric design, and constant learning. \
+🤝 Open to collaboration with developers, designers, and visionaries of all backgrounds \
+🌍 Enthusiastic about working on projects that make a positive impact 
 
-&nbsp;\
 &nbsp;
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -48,10 +47,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
 
-&nbsp;\
-&nbsp;\
 &nbsp;
 
+### 📫 Reach me
 <a href="https://www.linkedin.com/in/ahmedtariq08/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:ahmedtariq92331@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/ahmedtariq08/"><img src="https://img.shields.io/badge/-@ahmedtariq08-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
